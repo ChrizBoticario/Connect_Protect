@@ -1,5 +1,5 @@
 # Connect_Protect
 
-![ConnectProtect browser security poster](ConnectProtect/Connect_Protect_Github_Image.png)
+![ConnectProtect browser security poster](ConnectProtect/Connect_Protect_Github_Image_V2.png)
 
 **ConnectProtect** is a thesis prototype that develops a browser-integrated security system for detecting potentially malicious URLs through post-click scanning. It combines whitelist and blacklist filtering, Levenshtein Distance analysis, Edge-Based AI, and Generative AI-powered explanations to assess URL risks and help users make safer browsing decisions.
