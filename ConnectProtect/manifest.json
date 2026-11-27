@@ -3,6 +3,12 @@
   "name": "ConnectProtect",
   "version": "2.2",
   "description": "Hybrid malicious URL detection with local Edge-AI scoring, XAI trace, and Cognitive Speed Bump technology.",
+  "icons": {
+    "16": "icons/connectprotect-16.png",
+    "32": "icons/connectprotect-32.png",
+    "48": "icons/connectprotect-48.png",
+    "128": "icons/connectprotect-128.png"
+  },
   "permissions": [
     "storage",
     "tabs",
@@ -10,7 +16,13 @@
   ],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "ConnectProtect — Malicious URL Shield"
+    "default_title": "ConnectProtect — Malicious URL Shield",
+    "default_icon": {
+      "16": "icons/connectprotect-16.png",
+      "32": "icons/connectprotect-32.png",
+      "48": "icons/connectprotect-48.png",
+      "128": "icons/connectprotect-128.png"
+    }
   },
   "content_scripts": [
     {
